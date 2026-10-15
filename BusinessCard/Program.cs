@@ -14,7 +14,7 @@
             Console.WriteLine("Klasgroep:   1PROE");
             Console.WriteLine("Leukste olod: C#");
 
-
+            Console.WriteLine();
         }
     }
 }
